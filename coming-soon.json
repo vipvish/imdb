@@ -1,0 +1,377 @@
+{
+   "items":[
+      {
+         "id":"tt0870154",
+         "title":"Jungle Cruise",
+         "fullTitle":"Jungle Cruise (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"127",
+         "runtimeStr":"2h 7mins",
+         "plot":"Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+         "contentRating":"PG-13",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Action, Adventure, Comedy, Fantasy",
+         "genreList":[
+            {
+               "key":"Action",
+               "value":"Action"
+            },
+            {
+               "key":"Adventure",
+               "value":"Adventure"
+            },
+            {
+               "key":"Comedy",
+               "value":"Comedy"
+            },
+            {
+               "key":"Fantasy",
+               "value":"Fantasy"
+            }
+         ],
+         "directors":"Jaume Collet-Serra",
+         "directorList":[
+            {
+               "id":"nm1429471",
+               "name":"Jaume Collet-Serra"
+            }
+         ],
+         "stars":"Dwayne Johnson, Emily Blunt, Edgar Ramírez, Jesse Plemons",
+         "starList":[
+            {
+               "id":"nm0425005",
+               "name":"Dwayne Johnson"
+            },
+            {
+               "id":"nm1289434",
+               "name":"Emily Blunt"
+            },
+            {
+               "id":"nm1183149",
+               "name":"Edgar Ramírez"
+            },
+            {
+               "id":"nm0687146",
+               "name":"Jesse Plemons"
+            }
+         ]
+      },
+      {
+         "id":"tt9243804",
+         "title":"The Green Knight",
+         "fullTitle":"The Green Knight (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"125",
+         "runtimeStr":"2h 5mins",
+         "plot":"A fantasy re-telling of the medieval story of Sir Gawain and the Green Knight.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Adventure, Drama, Fantasy",
+         "genreList":[
+            {
+               "key":"Adventure",
+               "value":"Adventure"
+            },
+            {
+               "key":"Drama",
+               "value":"Drama"
+            },
+            {
+               "key":"Fantasy",
+               "value":"Fantasy"
+            }
+         ],
+         "directors":"David Lowery",
+         "directorList":[
+            {
+               "id":"nm1108007",
+               "name":"David Lowery"
+            }
+         ],
+         "stars":"Dev Patel, Alicia Vikander, Joel Edgerton, Sarita Choudhury",
+         "starList":[
+            {
+               "id":"nm2353862",
+               "name":"Dev Patel"
+            },
+            {
+               "id":"nm2539953",
+               "name":"Alicia Vikander"
+            },
+            {
+               "id":"nm0249291",
+               "name":"Joel Edgerton"
+            },
+            {
+               "id":"nm0002004",
+               "name":"Sarita Choudhury"
+            }
+         ]
+      },
+      {
+         "id":"tt10696896",
+         "title":"Stillwater",
+         "fullTitle":"Stillwater (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BN2IzMTUyMDUtZGJmZC00YWMzLWFhMGMtZjQwMTkzMzViMjFkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"140",
+         "runtimeStr":"2h 20mins",
+         "plot":"A father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"59",
+         "genres":"Crime, Drama, Thriller",
+         "genreList":[
+            {
+               "key":"Crime",
+               "value":"Crime"
+            },
+            {
+               "key":"Drama",
+               "value":"Drama"
+            },
+            {
+               "key":"Thriller",
+               "value":"Thriller"
+            }
+         ],
+         "directors":"Tom McCarthy",
+         "directorList":[
+            {
+               "id":"nm0565336",
+               "name":"Tom McCarthy"
+            }
+         ],
+         "stars":"Matt Damon, Abigail Breslin, Camille Cottin, Ginifer Ree",
+         "starList":[
+            {
+               "id":"nm0000354",
+               "name":"Matt Damon"
+            },
+            {
+               "id":"nm1113550",
+               "name":"Abigail Breslin"
+            },
+            {
+               "id":"nm1891185",
+               "name":"Camille Cottin"
+            },
+            {
+               "id":"nm8637562",
+               "name":"Ginifer Ree"
+            }
+         ]
+      },
+      {
+         "id":"tt10388028",
+         "title":"Enemies of the State",
+         "fullTitle":"Enemies of the State (2020)",
+         "year":"2020",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BYTMwYTg3YzUtODgwMi00MTJlLTg3MjUtMjVlZTZmMzYwMGIwXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UX128_CR0,3,128,176_AL_.jpg",
+         "runtimeMins":"103",
+         "runtimeStr":"1h 43mins",
+         "plot":"An American family becomes entangled in a bizarre web of secrets and lies when their hacker son is targeted by the U.S. government, making them all ENEMIES OF THE STATE.",
+         "contentRating":"",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"75",
+         "genres":"Documentary",
+         "genreList":[
+            {
+               "key":"Documentary",
+               "value":"Documentary"
+            }
+         ],
+         "directors":"Sonia Kennebeck",
+         "directorList":[
+            {
+               "id":"nm4807418",
+               "name":"Sonia Kennebeck"
+            }
+         ],
+         "stars":"Joel Widman, Stuart Anderson, Nemo Baletic, Angela Barbosa",
+         "starList":[
+            {
+               "id":"nm8282623",
+               "name":"Joel Widman"
+            },
+            {
+               "id":"nm12264735",
+               "name":"Stuart Anderson"
+            },
+            {
+               "id":"nm11286556",
+               "name":"Nemo Baletic"
+            },
+            {
+               "id":"nm5051045",
+               "name":"Angela Barbosa"
+            }
+         ]
+      },
+      {
+         "id":"tt10451852",
+         "title":"Nine Days",
+         "fullTitle":"Nine Days (2020)",
+         "year":"2020",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BZTNmOGFiOGEtMDQyZS00NDhmLThiMTAtZDk2YjAxZmExZDJiXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"124",
+         "runtimeStr":"2h 4mins",
+         "plot":"A reclusive man conducts a series of interviews with human souls for a chance to be born.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"78",
+         "genres":"Drama, Fantasy",
+         "genreList":[
+            {
+               "key":"Drama",
+               "value":"Drama"
+            },
+            {
+               "key":"Fantasy",
+               "value":"Fantasy"
+            }
+         ],
+         "directors":"Edson Oda",
+         "directorList":[
+            {
+               "id":"nm4043005",
+               "name":"Edson Oda"
+            }
+         ],
+         "stars":"Brandy Pitcher, Eric Ramaekers, Eliza de Azevedo Brown, Lisa Starrett",
+         "starList":[
+            {
+               "id":"nm6132216",
+               "name":"Brandy Pitcher"
+            },
+            {
+               "id":"nm5427928",
+               "name":"Eric Ramaekers"
+            },
+            {
+               "id":"nm6476787",
+               "name":"Eliza de Azevedo Brown"
+            },
+            {
+               "id":"nm8342905",
+               "name":"Lisa Starrett"
+            }
+         ]
+      },
+      {
+         "id":"tt11656220",
+         "title":"Midnight in the Switchgrass",
+         "fullTitle":"Midnight in the Switchgrass (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BMTRkZmUwZjktMGU3NC00Y2ZjLTg0NTMtZDYyNzQ4MDNhMTY2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"99",
+         "runtimeStr":"1h 39mins",
+         "plot":"An FBI agent and Florida State officer team up to investigate a string of unsolved murder cases.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Thriller",
+         "genreList":[
+            {
+               "key":"Thriller",
+               "value":"Thriller"
+            }
+         ],
+         "directors":"Randall Emmett",
+         "directorList":[
+            {
+               "id":"nm0256542",
+               "name":"Randall Emmett"
+            }
+         ],
+         "stars":"Emile Hirsch, Megan Fox, Bruce Willis, Lukas Haas",
+         "starList":[
+            {
+               "id":"nm0386472",
+               "name":"Emile Hirsch"
+            },
+            {
+               "id":"nm1083271",
+               "name":"Megan Fox"
+            },
+            {
+               "id":"nm0000246",
+               "name":"Bruce Willis"
+            },
+            {
+               "id":"nm0001305",
+               "name":"Lukas Haas"
+            }
+         ]
+      },
+      {
+         "id":"tt14673560",
+         "title":"Ride the Eagle",
+         "fullTitle":"Ride the Eagle (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BZjlmYTRhMWItOGFiNC00NTczLTg4ODgtNWU0ZTVlOTg3ZTM1XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"88",
+         "runtimeStr":"1h 28mins",
+         "plot":"Leif is left with a conditional inheritance when his estranged mother Honey dies. Before he can move into her picturesque Yosemite cabin, he has to complete her elaborate, and sometimes dubious, to-do list.",
+         "contentRating":"",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Comedy, Drama",
+         "genreList":[
+            {
+               "key":"Comedy",
+               "value":"Comedy"
+            },
+            {
+               "key":"Drama",
+               "value":"Drama"
+            }
+         ],
+         "directors":"Trent O'Donnell",
+         "directorList":[
+            {
+               "id":"nm2094436",
+               "name":"Trent O'Donnell"
+            }
+         ],
+         "stars":"J.K. Simmons, Jake Johnson, Susan Sarandon, D'Arcy Carden",
+         "starList":[
+            {
+               "id":"nm0799777",
+               "name":"J.K. Simmons"
+            },
+            {
+               "id":"nm2159926",
+               "name":"Jake Johnson"
+            },
+            {
+               "id":"nm0000215",
+               "name":"Susan Sarandon"
+            },
+            {
+               "id":"nm3639013",
+               "name":"D'Arcy Carden"
+            }
+         ]
+      }
+   ],
+   "errorMessage":""
+}
